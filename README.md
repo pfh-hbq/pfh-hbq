@@ -119,8 +119,8 @@ Mostly private, for now.
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=pfh-hbq&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&bg_color=0D1117&title_color=00F5FF&icon_color=B14EFF&text_color=C9D1D9&ring_color=FF2E88" alt="stats" />
-<img height="165" src="https://streak-stats.demolab.com?user=pfh-hbq&hide_border=true&background=0D1117&stroke=1F2937&ring=00F5FF&fire=FF2E88&currStreakLabel=B14EFF&currStreakNum=C9D1D9&sideNums=C9D1D9&sideLabels=8B949E&dates=6E7681" alt="streak" />
+<img height="165" src="https://github-readme-stats-git-master-rickstaa.vercel.app/api?username=pfh-hbq&show_icons=true&hide_border=true&include_all_commits=true&hide=stars,contribs&hide_rank=true&bg_color=0D1117&title_color=00F5FF&icon_color=B14EFF&text_color=C9D1D9" alt="stats" />
+<img height="165" src="https://streak-stats.demolab.com?user=pfh-hbq&hide_border=true&background=0D1117&stroke=1F2937&ring=00F5FF&fire=FF2E88&currStreakLabel=B14EFF&currStreakNum=C9D1D9&sideNums=C9D1D9&sideLabels=8B949E&dates=6E7681&v=2" alt="streak" />
 
 <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=pfh-hbq&hide_border=true&bg_color=0D1117&color=00F5FF&line=B14EFF&point=FF2E88&title_color=00F5FF&area=true&area_color=8E2DE2&custom_title=Contribution%20graph" alt="activity graph" />
 
